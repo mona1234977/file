@@ -1,0 +1,16 @@
+mona=delhi
+nikita=delhi
+usha=delhi
+preeti=delhi
+ankita=maharashtra
+prity=shimla
+priyanka=shimla
+pinky=noida
+sadhana=mumbai
+pooja=ratasthan
+yogita=shimla
+yukti=shimla
+muskan=delhi
+swati=gujrat
+aaru=shimla
+madhu=up

@@ -1,0 +1,5 @@
+shalu=delhi
+rishabh=mumbai
+pranjal=gujrat
+priya=goa
+pooja=nainital
